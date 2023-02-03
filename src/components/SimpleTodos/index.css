@@ -1,0 +1,25 @@
+.mainCon {
+  margin: 0;
+  width: 100vw;
+  padding: 5vw;
+  background-color: #ffc2a0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Roboto;
+}
+.innerCon {
+  width: 85vw;
+  border: none;
+  border-radius: 15px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.mainH {
+  color: #ff8542;
+  font-size: 4vw;
+}

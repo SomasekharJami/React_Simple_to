@@ -1,0 +1,21 @@
+.listItem {
+  list-style: none;
+  width: 65vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.listP {
+  font-size: 1.5vw;
+  color: #000000;
+}
+.bton {
+  color: #ff0b37;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid #ff0b37;
+  border-radius: 5px;
+  background-color: #ffffff;
+  font-size: 1.5vw;
+}
